@@ -71,9 +71,6 @@ section h3{
 	color: #fff;
 	font-weight: 700;
 }
-.card-info a{
-	text-decoration: none;
-}
 button{
 	display: block;
 	background-color: hsl(71, 73%, 54%);
